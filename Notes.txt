@@ -1,0 +1,8 @@
+1- for question 3:
+	- i trained the network using Anaconda 4.5.11, Windows 10, IDE: Pycharm, Keras: 2.2.4, tensorflow-gpu: 1.12.0
+	- i checked the sample solutions on Kaggle
+
+2- for question 1, and 2:
+	- i have installed Nunit3 Framework
+	- Nunit3TestAdapter
+	- Nunit.Runners

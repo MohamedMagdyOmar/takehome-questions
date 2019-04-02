@@ -1,0 +1,6 @@
+D:\Repos\TakeHomeExercise\Question1\Question1\bin\Debug\Question1.exe.config
+D:\Repos\TakeHomeExercise\Question1\Question1\bin\Debug\Question1.exe
+D:\Repos\TakeHomeExercise\Question1\Question1\bin\Debug\Question1.pdb
+D:\Repos\TakeHomeExercise\Question1\Question1\obj\Debug\Question1.exe
+D:\Repos\TakeHomeExercise\Question1\Question1\obj\Debug\Question1.pdb
+D:\Repos\TakeHomeExercise\Question1\Question1\obj\Debug\Question1.csprojResolveAssemblyReference.cache

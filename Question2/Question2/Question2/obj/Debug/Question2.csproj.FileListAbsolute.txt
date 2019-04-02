@@ -1,0 +1,9 @@
+D:\Repos\TakeHomeExercise\Question2\Question2\Question2\bin\Debug\Question2.exe.config
+D:\Repos\TakeHomeExercise\Question2\Question2\Question2\bin\Debug\Question2.exe
+D:\Repos\TakeHomeExercise\Question2\Question2\Question2\bin\Debug\Question2.pdb
+D:\Repos\TakeHomeExercise\Question2\Question2\Question2\obj\Debug\Question2.exe
+D:\Repos\TakeHomeExercise\Question2\Question2\Question2\obj\Debug\Question2.pdb
+D:\Repos\TakeHomeExercise\Question2\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+D:\Repos\TakeHomeExercise\takehome-questions\Question2\Question2\Question2\bin\Debug\Question2.exe.config
+D:\Repos\TakeHomeExercise\takehome-questions\Question2\Question2\Question2\obj\Debug\Question2.exe
+D:\Repos\TakeHomeExercise\takehome-questions\Question2\Question2\Question2\obj\Debug\Question2.pdb
