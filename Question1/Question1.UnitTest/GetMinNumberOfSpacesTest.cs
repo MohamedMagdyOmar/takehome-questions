@@ -50,7 +50,13 @@ namespace Question1.UnitTest
             Assert.AreEqual("5", result);
         }
 
-       
+        [TestCase("abcdefab", new string[] { "ab", "cd", "Abc", "def" })]
+        public void Test6Spaces_GetMinNumberOfSpaces(string InputString, string[] InputList)
+        {
+            var result = Program.GetMinNumberOfSpaces(InputString, InputList.ToList());
+            Assert.AreEqual("5", result);
+        }
+
 
 
     }
